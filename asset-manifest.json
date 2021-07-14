@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/insanityCo-branding/static/css/main.48023635.chunk.css",
+    "main.js": "/insanityCo-branding/static/js/main.6bd4f6dc.chunk.js",
+    "main.js.map": "/insanityCo-branding/static/js/main.6bd4f6dc.chunk.js.map",
+    "runtime-main.js": "/insanityCo-branding/static/js/runtime-main.f46a2a8c.js",
+    "runtime-main.js.map": "/insanityCo-branding/static/js/runtime-main.f46a2a8c.js.map",
+    "static/js/2.2440afe5.chunk.js": "/insanityCo-branding/static/js/2.2440afe5.chunk.js",
+    "static/js/2.2440afe5.chunk.js.map": "/insanityCo-branding/static/js/2.2440afe5.chunk.js.map",
+    "index.html": "/insanityCo-branding/index.html",
+    "static/css/main.48023635.chunk.css.map": "/insanityCo-branding/static/css/main.48023635.chunk.css.map",
+    "static/js/2.2440afe5.chunk.js.LICENSE.txt": "/insanityCo-branding/static/js/2.2440afe5.chunk.js.LICENSE.txt",
+    "static/media/crew.34dc880a.jpg": "/insanityCo-branding/static/media/crew.34dc880a.jpg",
+    "static/media/header_image3.baac82c4.jpg": "/insanityCo-branding/static/media/header_image3.baac82c4.jpg",
+    "static/media/insanity_logo.06ddc67d.png": "/insanityCo-branding/static/media/insanity_logo.06ddc67d.png",
+    "static/media/pink_splash.46f4164a.png": "/insanityCo-branding/static/media/pink_splash.46f4164a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f46a2a8c.js",
+    "static/js/2.2440afe5.chunk.js",
+    "static/css/main.48023635.chunk.css",
+    "static/js/main.6bd4f6dc.chunk.js"
+  ]
+}
